@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-docker-compose run codeception run -vv --html
+docker-compose run --rm codeception run -vv --html
 
