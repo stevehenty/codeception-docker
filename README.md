@@ -5,4 +5,4 @@ A barebones playground for getting Codeception acceptance tests up and running q
 
 Run `bash start.sh` to use Docker Compose to run the tests in the tests/acceptance folder.
 
-En Windows PowerShell: `docker-compose run codeception run -vv --html`
+Windows PowerShell: `docker-compose run codeception run -vv --html`
